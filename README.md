@@ -19,10 +19,16 @@ Radio BTuttons: For selecting gender.
 Checkboxes: For subscription opt-in/opt-out.
 ## Screenshot
 <img src="../main/preview.png">
+
 ## How to Use 
 Clone the repository to your local machine.
 Open the index.html file in a web browser.
 Fill out the form with your information.
 Click the submit button to complete the registration process.
+
+## Credits
+This project is Created Rudra Langote.
+
+
 
 
